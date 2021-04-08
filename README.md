@@ -1,3 +1,5 @@
 # Qt5_27_BasicQtClasses_QString
 
-#SourceCode to be added soon
+#Basic Qt classes QString discussed and
+
+#SourceCode added 
