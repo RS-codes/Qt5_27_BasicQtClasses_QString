@@ -1,0 +1,1 @@
+# Qt5_27_BasicQtClasses_QString
